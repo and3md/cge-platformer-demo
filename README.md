@@ -1,0 +1,1 @@
+The platformer demo has been moved to the [examples/platformer/](https://github.com/castle-engine/castle-engine/tree/master/examples/platformer) subdirectory of the [Castle Game Engine](https://github.com/castle-engine/castle-engine/).
